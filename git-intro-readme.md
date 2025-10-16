@@ -3,17 +3,6 @@
 ## Objective
 Learn the basics of Git version control and GitHub by cloning a repository, making changes, and pushing them back to GitHub.
 
-## What You'll Learn
-- How to clone a repository from GitHub
-- How to make changes to files locally
-- How to commit your changes
-- How to push changes back to GitHub
-
-## Prerequisites
-- Git installed on your computer ([Download Git](https://git-scm.com/downloads))
-- A GitHub account
-- Basic command line knowledge
-
 ## Instructions
 
 ### Step 1: Clone the Repository
@@ -69,22 +58,6 @@ Learn the basics of Git version control and GitHub by cloning a repository, maki
 
 ## Submission
 Once you've pushed your changes to GitHub, your assignment is complete! Your instructor will be able to see your commits and changes in your repository.
-
-## Common Issues and Solutions
-
-**Problem**: "Permission denied" when pushing
-- **Solution**: Make sure you're authenticated with GitHub. You may need to set up a personal access token or SSH key.
-
-**Problem**: "Failed to push some refs"
-- **Solution**: Someone else may have pushed changes. Try `git pull origin main` first, then push again.
-
-**Problem**: Can't find Git command
-- **Solution**: Make sure Git is installed and added to your system PATH.
-
-## Resources
-- [Git Documentation](https://git-scm.com/doc)
-- [GitHub Guides](https://guides.github.com/)
-- [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 ## Questions?
 If you encounter any issues, please reach out to your instructor or check the course discussion board.
